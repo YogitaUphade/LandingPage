@@ -1,3 +1,3 @@
 # LandingPage
-This is my 1st landing Page
+Landing page using HTML & CSS
 
